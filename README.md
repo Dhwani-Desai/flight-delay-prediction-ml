@@ -43,8 +43,6 @@ In Progress
 
 ## Author
 
-Dhwani Desai
-MSc Artificial Intelligence
-University of South Wales, UK
+Dhwani Desai | MSc Artificial Intelligence | University of South Wales, UK
 MSc Artificial Intelligence
 University of South Wales, UK
